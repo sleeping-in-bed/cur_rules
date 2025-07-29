@@ -34,7 +34,7 @@ files_to_update = [
         f"{m.group(3)}{version}{m.group(5)}",
     },
     {
-        "file": "rule.mdc",
+        "file": "cur_rules/resources/rule.mdc",
         "pattern": re.compile(
             r'(?P<block>version:\s+)(?P<version>[^\s]+)',
             re.DOTALL,
