@@ -1,3 +1,9 @@
+## [1.0.4](https://github.com/sleeping-in-bed/cur_rules/compare/v1.0.3...v1.0.4) (2025-07-29)
+
+### Bug Fixes
+
+* fix dir ([18cf061](https://github.com/sleeping-in-bed/cur_rules/commit/18cf0617ced62eac50c70eced879a22d173df615))
+
 ## [1.0.3](https://github.com/sleeping-in-bed/cur_rules/compare/v1.0.2...v1.0.3) (2025-07-29)
 
 ### Bug Fixes
