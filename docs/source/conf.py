@@ -14,8 +14,8 @@ project = "cur_rules"
 copyright = "2025, the cur_rules developers"
 author = "the cur_rules developers"
 
-version = "1.0.2"
-release = "1.0.2"
+version = "1.0.3"
+release = "1.0.3"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
