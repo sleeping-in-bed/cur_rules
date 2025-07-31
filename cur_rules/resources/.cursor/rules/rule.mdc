@@ -1,5 +1,5 @@
 ---
-# version 1.0.4
+# version 1.1.0
 description: 规则
 # 适用于项目中的所有文件
 globs:
