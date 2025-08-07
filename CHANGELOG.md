@@ -1,3 +1,9 @@
+## [1.3.0](https://github.com/sleeping-in-bed/cur_rules/compare/v1.2.0...v1.3.0) (2025-08-07)
+
+### Features
+
+* update rules ([0f9de0f](https://github.com/sleeping-in-bed/cur_rules/commit/0f9de0fd612f4bd7df5f39e61376796e9f5ce137))
+
 ## [1.2.0](https://github.com/sleeping-in-bed/cur_rules/compare/v1.1.0...v1.2.0) (2025-08-07)
 
 ### Features
