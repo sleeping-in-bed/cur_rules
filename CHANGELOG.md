@@ -1,3 +1,9 @@
+## [1.4.0](https://github.com/sleeping-in-bed/cur_rules/compare/v1.3.0...v1.4.0) (2025-08-10)
+
+### Features
+
+* allow env_file ([8ada254](https://github.com/sleeping-in-bed/cur_rules/commit/8ada25436ad16f3366815b0ea37c3b8940365c20))
+
 ## [1.3.0](https://github.com/sleeping-in-bed/cur_rules/compare/v1.2.0...v1.3.0) (2025-08-07)
 
 ### Features
