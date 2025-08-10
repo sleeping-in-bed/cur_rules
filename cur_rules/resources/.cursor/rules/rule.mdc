@@ -26,7 +26,7 @@ alwaysApply: true
 1. Use the `docker compose` command and `compose.yml`. The `compose.yml` should use the latest syntax; do not write the `version` field.
 2. Do not change the docker image versions in the files.
 3. The `restart` field should be `unless-stopped`.
-4. Do not use the `container_name`, `env_file`, or `networks` fields.
+4. Do not use the `container_name` or `networks` fields.
 5. When using environment variables, do not provide default values, e.g., `${PORT:-80}`.
 6. When writing a `Dockerfile` or `compose.yml`, you must check the existing images on the current host and use their versions.
 
